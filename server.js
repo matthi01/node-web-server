@@ -7,7 +7,7 @@ const port = process.env.port || 3000;
 let app = express();
 
 hbs.registerHelper('getCurrentYear', () => {
-  return new Date().getFullYear() 
+  return new Date().getFullYear()
 });
 hbs.registerHelper('screamIt', (text) => {
   return text.toUpperCase();
