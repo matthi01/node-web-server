@@ -1,0 +1,6 @@
+Learned:
+ - how to host a server with express
+ - basic syntax for express
+ - how to create static pages
+ - how to pass dynamic content to static pages
+ - using handlebars template engine / view engine
